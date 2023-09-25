@@ -1,4 +1,4 @@
-# Age Calculator App
+# Age Calculator app
 
 ## Mini app on HTML, CSS & JS to practice.
 
